@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
+  <entry>
+    <title>Test</title>
+    <url>/2023/07/12/Helloworld/</url>
+    <content><![CDATA[<p>这是一篇测试文档</p>
+]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
+  </entry>
 </search>
