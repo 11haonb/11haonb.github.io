@@ -48,7 +48,7 @@ My research interest includes artificial intelligence and data science. Feel fre
 - *2021.06 - 2024.08 (now)*, Beijing Institute of Technology, School of Computer Science.
 - *2018.09 - 2021.06*, Wuhan No.2 High School.
 
-# 💬 Invited Talks
+# 💬 Other Interests
 
 # 💻 Internships
 - *2023.07 - 2023.08*, Huazhong University of Science and Technology(HUST), China.
