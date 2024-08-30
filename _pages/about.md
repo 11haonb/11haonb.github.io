@@ -22,8 +22,7 @@ My research interest includes artificial intelligence and data science. Feel fre
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *202?.??*: &nbsp;🎉🎉 Looking forward to some good news!
 
 # 📝 Publications 
 
