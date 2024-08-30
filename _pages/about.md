@@ -46,3 +46,5 @@ To be continued...
 # 💻 Internships
 - *2023.07 - 2023.08*, Huazhong University of Science and Technology(HUST), China.
 - *2024.01 - 2024.02*, Huazhong University of Science and Technology(HUST), China.
+
+# 🤗 Friends
