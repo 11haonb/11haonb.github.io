@@ -33,8 +33,6 @@ To be continued...
 </div>
 </div>
 
-{%- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**%}
-
 # 🎖 Honors and Awards
 - *2023.06* First prize scholarship in Beijing Institute of Technology
 - *2022.10* Outstanding student award in Beijing Institute of Technology
