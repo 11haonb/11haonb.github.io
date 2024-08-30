@@ -34,7 +34,7 @@ To be continued...
 - *2022.10* Outstanding student award in Beijing Institute of Technology
 
 # 📖 Educations
-- *2021.06 - 2024.08 (now)*, Beijing Institute of Technology, School of Computer Science.
+- *2021.06 - 2024.08 (now)*, Beijing Institute of Technology, School of Computer Science, Artificial Intelligence.
 - *2018.09 - 2021.06*, Wuhan No.2 High School.
 
 # 💬 Other Interests
